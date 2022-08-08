@@ -49,13 +49,13 @@ body {
 }
 
 #cont_a {
-    content: url(/css/img/Layer\ 1149.png);
+    content: url(../css/img/Layer\ 1149.png);
     position: relative;
     top: 2px;
 }
 
 #cont_a2::before {
-    content: url(/css/img/Layer\ 1150.png);
+    content: url(../css/img/Layer\ 1150.png);
     position: relative;
     top: 3px;
 }
@@ -94,7 +94,7 @@ body {
 }
 
 #phoneme::before {
-    content: url(/css/img/Shape\ 170\ copy\ 3.png);
+    content: url(../css/img/Shape\ 170\ copy\ 3.png);
     position: relative;
     top: 5px;
 }
@@ -187,7 +187,7 @@ body {
 }
 
 #skype::before {
-    content: url(/css/img/Layer\ 1138.png);
+    content: url(../css/img/Layer\ 1138.png);
     position: relative;
     top: 3px;
 }
@@ -205,7 +205,7 @@ body {
 }
 
 #soc:before {
-    content: url(/css/img/Layer\ 1115.png);
+    content: url(../css/img/Layer\ 1115.png);
     position: relative;
     top: 3px;
 }
@@ -217,7 +217,7 @@ body {
 }
 
 #mail::before {
-    content: url(/css/img/@.png);
+    content: url(../css/img/@.png);
     position: relative;
     top: 3px;
 }
@@ -395,7 +395,7 @@ h1 {
 }
 
 #fav::before {
-    content: url(/css/img/Vector\ Smart\ Object.png);
+    content: url(../css/img/Vector\ Smart\ Object.png);
     position: relative;
     top: 2px;
 }
@@ -421,7 +421,7 @@ h1 {
 }
 
 #shop::before {
-    content: url(/css/img/Shape\ 171\ copy\ 12.png);
+    content: url(../css/img/Shape\ 171\ copy\ 12.png);
     position: relative;
     top: 4px;
 }
@@ -573,7 +573,7 @@ nav a:hover {
 }
 
 .ticket::before {
-    content: url(/css/img/Layer\ 364\ copy\ 8.png);
+    content: url(../css/img/Layer\ 364\ copy\ 8.png);
     position: relative;
     top: -4px;
 }
@@ -702,7 +702,7 @@ article a:hover {
 }
 
 #sale:before {
-    content: url(/css/img/Shape\ 427\ copy\ 2.png);
+    content: url(../css/img/Shape\ 427\ copy\ 2.png);
     position: absolute;
     display: flex;
     left: 48.5%;
